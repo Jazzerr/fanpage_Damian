@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fanpage_Damian/static/css/main.e1d6ea28.css",
+    "main.js": "/fanpage_Damian/static/js/main.566c1106.js",
+    "static/js/453.6dcf4a43.chunk.js": "/fanpage_Damian/static/js/453.6dcf4a43.chunk.js",
+    "static/media/IMG_0472.JPG": "/fanpage_Damian/static/media/IMG_0472.de3dbddf25f18f03968a.JPG",
+    "static/media/IMG_0473.JPG": "/fanpage_Damian/static/media/IMG_0473.cc7b917479505e4560bb.JPG",
+    "index.html": "/fanpage_Damian/index.html",
+    "main.e1d6ea28.css.map": "/fanpage_Damian/static/css/main.e1d6ea28.css.map",
+    "main.566c1106.js.map": "/fanpage_Damian/static/js/main.566c1106.js.map",
+    "453.6dcf4a43.chunk.js.map": "/fanpage_Damian/static/js/453.6dcf4a43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d6ea28.css",
+    "static/js/main.566c1106.js"
+  ]
+}
